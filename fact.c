@@ -21,5 +21,5 @@ int main()
     printf("ncr = %d",factn/(factr*factnr));
 
     return 0;    
-    
 }
+
